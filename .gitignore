@@ -3,6 +3,8 @@ build/
 .kotlin/
 out/
 
+shell.nix
+
 *.iml
 .idea/
 *.ipr
